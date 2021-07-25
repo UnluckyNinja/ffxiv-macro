@@ -18,9 +18,6 @@
       "esnext",
       "dom"
     ],
-    "types": [
-      "vite/client"
-    ],
   },
   "include": [
     "src/**/*.ts",
